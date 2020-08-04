@@ -54,7 +54,7 @@
                 "author": "Elementor",
                 "url": "https://library.elementor.com/hero-ui-kit/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
                 "type": "block",
-                "subtype": "subscribe",
+                "subtype": "login",
                 "tags": "[]",
                 "menu_order": "1",
                 "popularity_index": "0",
